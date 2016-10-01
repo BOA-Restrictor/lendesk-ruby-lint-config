@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = 'Shared ruby lint config for lendesk'
   spec.description   = 'Shared ruby lint config for lendesk'
-  spec.homepage      = 'https://github.com/matrinox/lendesk-ruby-lint-config'
+  spec.homepage      = 'https://github.com/BOA-Restrictor/lendesk-ruby-lint-config'
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
