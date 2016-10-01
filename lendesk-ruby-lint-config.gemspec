@@ -1,11 +1,11 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'lendesk/ruby/lint/config/version'
+require 'lendesk_ruby_lint_config/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'lendesk-ruby-lint-config'
-  spec.version       = Lendesk::Ruby::Lint::Config::VERSION
+  spec.version       = LendeskRubyLintConfig::VERSION
   spec.authors       = ['matrinox']
   spec.email         = ['geoff.lee@lendesk.com']
 
